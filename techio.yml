@@ -1,0 +1,21 @@
+title : La Courbe du dragon
+plan:
+  - title: La Courbe du dragon - Introduction
+    statement: markdowns/welcome.md
+  - title: La Courbe du dragon - étape 1, un "L"
+    statement: markdowns/step1.md
+  - title: La Courbe du dragon - étape 2
+    statement: markdowns/step2.md
+  - title: La Courbe du dragon - étape 3
+    statement: markdowns/step3.md
+  - title: La Courbe du dragon - étape 4
+    statement: markdowns/step4.md
+  - title: La Courbe du dragon - étape 5, 6, 7, ..., 15
+    statement: markdowns/step5To15.md
+ 
+projects:
+  drawing_dragon_curve:
+    root: "/c_drawing_sample"
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
