@@ -1,6 +1,6 @@
-# La Courbe du dragon
+# La Courbe du dragon - étape 1 (1 pli)
 
-## Étape 1A, un "L" (1 pli)
+## Manip 1
 
 <br>
 
@@ -12,7 +12,7 @@
 
 <br><br>
 
-## Question A
+## Question 1
 
 <br>
 
@@ -24,7 +24,7 @@ Elle part tout droit, puis tourne d'1/4 de tour vers SA gauche ou vers SA droite
 
 <br><br>
 
-## Étape 1B, noter le chemin de la fourmi :
+## Réponse 1, noter le chemin de la fourmi :
 
 <br>
 
@@ -32,7 +32,7 @@ Notez maintenant sur la 2e feuille : "étape 1 :" puis tracez le "L" obtenu, pui
 
 <br><br>
 
-## Question B
+## Question 2
 
 <br>
 
@@ -42,7 +42,7 @@ Combien de virages a fait la fourmi ?
 
 <br><br>
 
-## Étape 1C, noter le nombre de virages :
+## Réponse 2, noter le nombre de virages :
 
 <br>
 
@@ -50,7 +50,7 @@ Ajouter maintenant sur la 2e feuille, toujours à l'étape 1 : "nombre de virage
 
 <br><br>
 
-## Question C
+## Question 3
 
 <br>
 
@@ -60,7 +60,7 @@ En supposant que la bandelette de feuille fait 0,1mm d'épaisseur et 21cm en lon
 
 <br><br>
 
-## Étape 1D, noter les dimensions de la bandelette de papier :
+## Réponse 3, noter les dimensions de la bandelette de papier :
 
 <br>
 
