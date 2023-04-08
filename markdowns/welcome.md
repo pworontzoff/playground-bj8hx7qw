@@ -1,7 +1,5 @@
 # La Courbe du dragon
 
-<br>
-
 ## Introduction
 
 <br>
