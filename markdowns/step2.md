@@ -8,7 +8,7 @@ Replier la bandelette de papier, puis plier à nouveau en 2 parties égales. NE 
 
 ![Etape2](img/step2.png) 
 
-<br><br>
+<br>
 
 ## Devinette
 
