@@ -42,7 +42,7 @@ Combien de virages a fait la fourmi ?
 
 <br><br>
 
-## Étape 3, noter :
+## Étape 3, noter le nombre de virages :
 
 <br>
 
@@ -60,7 +60,7 @@ En supposant que la bandelette de feuille fait 0,1mm d'épaisseur et 21cm en lon
 
 <br><br>
 
-## Étape 4, noter :
+## Étape 4, noter les dimensions de la bandelette de papier :
 
 <br>
 
