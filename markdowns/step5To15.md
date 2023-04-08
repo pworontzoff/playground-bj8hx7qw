@@ -20,7 +20,7 @@ Si oui, comment faire pour voir ce que donnerait notre petit dessin à l'étape 
 
 <br>
 
-- la bandelette de feuille est épaisse de    0,1mm                                                                et longue de 21cm
+- la bandelette de feuille est épaisse de&nbsp;&nbsp;&nbsp;&nbsp;0,1mm                                                                et longue de 21cm
 - avec 1 pli : la bandelette est épaisse de  0,1mm x 2                                                            et longue de 21cm / 2
 - avec 2 plis : la bandelette est épaisse de 0,1mm x 2 x 2                                                        et longue de 21cm / 2 / 2
 - avec 3 plis : la bandelette est épaisse de 0,1mm x 2 x 2 x 2                                                    et longue de 21cm / 2 / 2 / 2
