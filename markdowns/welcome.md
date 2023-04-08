@@ -2,6 +2,8 @@
 
 ## Introduction
 
+<br><br>
+
 La courbe du dragon est obtenue par des plis successifs d'un segment de droite.
 
 <br><br>
