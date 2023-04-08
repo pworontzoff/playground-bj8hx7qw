@@ -64,14 +64,6 @@ Déplier la bandelette et coller une moitié de gommette rouge en bas de la band
 
 ![Prepa4](img/prepa4.png)
 
-## Préparation - 5
-
-<br>
-
-Replier la gommette rouge pour que celle-ci se colle de l'autre côté :
-
-![Prepa5](img/prepa5.png)
-
 ## En route vers la courbe du dragon !
 
 <br>
