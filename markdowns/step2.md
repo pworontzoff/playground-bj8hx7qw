@@ -1,4 +1,4 @@
-## Étape 2a (2 plis)
+## Étape 2A (2 plis)
 
 <br>
 
@@ -18,7 +18,7 @@ Et si on place la feuille comme à l'étape 1 (avec la gommette bleue en haut), 
 
 <br><br>
 
-## Étape 2b : déplier et faire des angles droits
+## Étape 2B : déplier et faire des angles droits
 
 <br>
 
@@ -30,7 +30,7 @@ Est-ce le dessin que vous avez deviné ? ;-)
 
 <br><br>
 
-## Question 1
+## Question 2A
 
 <br>
 
@@ -42,7 +42,7 @@ Elle part tout droit, puis quel sera son chemin ? Elle tourne (chaque fois d'1/4
 
 <br><br>
 
-## Étape 3, noter le chemin de la fourmi :
+## Étape 2C, noter le chemin de la fourmi :
 
 <br>
 
@@ -50,7 +50,7 @@ Notez maintenant sur la 2e feuille : "étape 2 :" puis tracez le dessin obtenu, 
 
 <br><br>
 
-## Question 2
+## Question 2B
 
 <br>
 
@@ -60,7 +60,7 @@ Combien de virages a fait la fourmi ?
 
 <br><br>
 
-## Étape 4, noter le nombre de virages :
+## Étape 2D, noter le nombre de virages :
 
 <br>
 
@@ -68,7 +68,7 @@ Ajouter maintenant sur la 2e feuille, toujours à l'étape 2 : "nombre de virage
 
 <br><br>
 
-## Question 3
+## Question 2C
 
 <br>
 
@@ -79,7 +79,7 @@ Puisqu'à l'étape précédente, la bandelette de feuille faisait 0,2mm d'épais
 
 <br><br>
 
-## Étape 4, noter les dimensions de la bandelette de papier :
+## Étape 2, noter les dimensions de la bandelette de papier :
 
 <br>
 
