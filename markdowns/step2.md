@@ -1,4 +1,4 @@
-## Étape 2A (2 plis)
+## Étape 2 (2 plis)
 
 <br>
 
