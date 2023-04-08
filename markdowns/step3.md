@@ -34,6 +34,8 @@ Elle part tout droit, puis quel sera son chemin ? Elle tourne (chaque fois d'1/4
 
 Notez sur la 2e feuille : "étape 3 :" puis tracez le dessin obtenu, puis indiquez le chemin de la fourmi  **en notant "G" pour "Gauche" et "D" pour "DROITE"**
 
+<br>
+
 !!!!!! (réponse pas sur l'ordi : DDG G DGG).
 
 <br><br>
@@ -43,6 +45,8 @@ Notez sur la 2e feuille : "étape 3 :" puis tracez le dessin obtenu, puis indiqu
 <br>
 
 Combien de virages a fait la fourmi ?
+
+<br>
 
 !!!!!! (réponse : 7)
 
@@ -60,7 +64,7 @@ Puisqu'à l'étape précédente, la bandelette de feuille faisait 0,4mm d'épais
 
 <br>
 
-!!!!!! (Réponse : épaisseur feuille pliée : 0,4mm x 2 = 0,8mm et longueur : 5,25cm / 2 = 2,625cm")
+!!!!!! (réponse : épaisseur feuille pliée : 0,4mm x 2 = 0,8mm et longueur : 5,25cm / 2 = 2,625cm")
 
 <br>
 
