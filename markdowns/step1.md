@@ -60,7 +60,7 @@ En supposant que la bandelette de feuille fait 0,1mm d'épaisseur et 21cm en lon
 
 <br><br>
 
-## Étape 3, noter :
+## Étape 4, noter :
 
 <br>
 
