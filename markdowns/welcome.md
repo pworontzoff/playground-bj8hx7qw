@@ -1,8 +1,10 @@
 # La Courbe du dragon
 
+<br>
+
 ## Introduction
 
-<br><br>
+<br>
 
 La courbe du dragon est obtenue par des plis successifs d'un segment de droite.
 
@@ -26,9 +28,13 @@ Nous pouvons utiliser une bandelette de papier vue de sa tranche pour construire
 
 ## Matériel nécessaire
 
+<br>
+
 ![Matos](img/matos.png)
 
 ## Préparation - 1
+
+<br>
 
 Coller une moitié de gommette bleue en bas à gauche de la bandelette de manière à ce que celle-ci dépasse de moitié la bandelette :
 
@@ -36,17 +42,23 @@ Coller une moitié de gommette bleue en bas à gauche de la bandelette de maniè
 
 ## Préparation - 2
 
+<br>
+
 Replier la gommette bleue pour que celle-ci se colle de l'autre côté :
 
 ![Prepa2](img/prepa2.png)
 
 ## Préparation - 3
 
+<br>
+
 Plier la bandelette en 2 de manière à ramener le côté droit sur le côté gauche (avec la gommette bleue)
 
 ![Prepa3](img/prepa3.png)
 
 ## Préparation - 4
+
+<br>
 
 Déplier la bandelette et coller une moitié de gommette rouge en bas de la bandelette, au niveau du pli du milieu.
 
@@ -56,10 +68,14 @@ Déplier la bandelette et coller une moitié de gommette rouge en bas de la band
 
 ## Préparation - 5
 
+<br>
+
 Replier la gommette rouge pour que celle-ci se colle de l'autre côté :
 
 ![Prepa5](img/prepa5.png)
 
 ## En route vers la courbe du dragon !
+
+<br>
 
 Nous sommes maintenant prêts pour construire manuellement une courbe du dragon !
