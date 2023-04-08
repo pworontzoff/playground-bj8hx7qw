@@ -14,7 +14,7 @@ Plier la feuille à angle droit et tenir la feuille devant soi, vue de la tranch
 
 <br>
 
-Imaginez une fourmi qui part du point bleu en haut du "L" et qui parcoure le long de la tranche pour arriver à l'autre bout de la feuille !
+Imaginez une fourmi qui part de la gommette bleue en haut du "L" et qui parcoure le long de la tranche pour arriver à l'autre bout de la feuille !
 
 Elle part tout droit, puis tourne d'1/4 de tour vers SA gauche ou vers SA droite ?
 
