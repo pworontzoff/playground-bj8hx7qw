@@ -4,7 +4,7 @@ Avez-vous remarqué... ?
 
 <br>
 
-La feuille de papier est déjà plus épaisse que longue !
+La feuille de papier est déjà plus épaisse que longue!
 
 <br>
 
