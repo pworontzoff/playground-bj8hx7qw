@@ -60,7 +60,7 @@ Plier la bandelette en 2 de manière à ramener le côté droit sur le côté ga
 
 Déplier la bandelette et coller une moitié de gommette rouge en bas de la bandelette, au niveau du pli du milieu.
 
-! Comme avec la gommette bleue, on colle la gommette de manière à ce que celle-ci dépasse de moitié la bandelette :
+! Comme avec la gommette bleue, on colle la gommette de manière à ce que celle-ci dépasse de moitié la bandelette puis replier la gommette rouge pour que celle-ci se colle de l'autre côté:
 
 ![Prepa4](img/prepa4.png)
 
