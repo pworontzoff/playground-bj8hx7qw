@@ -4,17 +4,23 @@
 
 La courbe du dragon est obtenue par des plis successifs d'un segment de droite.
 
+<br><br>
+
 Nous pouvons utiliser une bandelette de papier vue de sa tranche pour construire manuellement cette courbe :
 
 ![BandePapierTranche](img/bandePapierTranche.png)
 
 (Feuille de papier vue de sa tranche = segment de droite)
 
-<br><br><br><br>
+<br><br>
 
 - Pour visualiser plus facilement le début de la courbe, nous utiliserons une gommette bleue ![gommetteBleue](img/gommetteB.png)
 
+<br><br>
+
 - Pour visualiser plus facilement le milieu de la courbe, nous utiliserons une gommette rouge ![gommetteRouge](img/gommetteR.png)
+
+<br><br>
 
 ## Matériel nécessaire
 
