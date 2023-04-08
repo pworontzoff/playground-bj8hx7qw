@@ -8,9 +8,9 @@ Nous pouvons utiliser une bandelette de papier vue de sa tranche pour construire
 
 ![BandePapierTranche](img/bandePapierTranche.png)
 
-- Pour visualiser plus facilement le début de la courbe, nous utiliserons une gommette bleue
+- Pour visualiser plus facilement le début de la courbe, nous utiliserons une gommette bleue ![gommetteBleue](img/gommetteB.png)
 
-- Pour visualiser plus facilement le milieu de la courbe, nous utiliserons une gommette rouge
+- Pour visualiser plus facilement le milieu de la courbe, nous utiliserons une gommette rouge ![gommetteRouge](img/gommetteR.png)
 
 ## Matériel nécessaire
 
