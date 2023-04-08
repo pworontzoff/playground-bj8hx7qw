@@ -4,7 +4,7 @@
 
 <br>
 
-Plier la feuille à angle droit et tenir la feuille devant soi, vue de la tranche, de manière à voir un "L"
+Plier la feuille à angle droit et tenir la feuille devant soi, vue de la tranche, ensuite pivoter votre bandelette de manière à voir un "L" (vu d'en haut) :
 
 ![Etape1](img/step1.png) 
 
