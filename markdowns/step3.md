@@ -8,7 +8,7 @@ Replier complètement la bandelette de papier, puis plier à nouveau en 2 partie
 
 <br>
 
-Si on déplie (comme avant) en formant uniquement des angles droits et qu'on place la feuille comme à l'étape 1 (avec la gommette bleue en haut), pourriez-vous imaginer quel dessin on va obtenir ?
+Si on déplie (comme avant) en formant uniquement des angles droits et qu'on place la feuille comme à l'étape 1 (sur la tranche avec la gommette bleue en haut), pourriez-vous imaginer quel dessin on va obtenir ?
 
 <br>
 
